@@ -1,8 +1,8 @@
 # tutorials
-https://github.com/Yulai202020/go_course
+[course](https://github.com/Yulai202020/go_course)
 
 # tests
-https://github.com/Yulai202020/golang_test
+[test on golang](https://github.com/Yulai202020/golang_test)
 
 # rabbitmq (queue)
-https://github.com/Yulai202020/go-rabbitmq
+[rabbitmq](https://github.com/Yulai202020/go-rabbitmq)
